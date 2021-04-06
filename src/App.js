@@ -128,7 +128,7 @@ export default function BasicTable() {
   };
 
   useEffect(() => {
-    fetch("http://localhost:3000/leaderboard").then(res => res.json()).then(data => {
+    fetch("https://gssocleaderboardapi.herokuapp.com/leaderboard").then(res => res.json()).then(data => {
       setLeaderss(data.leaderboard);
       setTimsestamp(data.last_updated);
     });
