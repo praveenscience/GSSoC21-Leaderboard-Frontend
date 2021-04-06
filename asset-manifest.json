@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GSSoC21-Leaderboard-Frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/GSSoC21-Leaderboard-Frontend/static/js/main.e0fdd914.chunk.js",
+    "main.js.map": "/GSSoC21-Leaderboard-Frontend/static/js/main.e0fdd914.chunk.js.map",
+    "runtime-main.js": "/GSSoC21-Leaderboard-Frontend/static/js/runtime-main.14ddaa36.js",
+    "runtime-main.js.map": "/GSSoC21-Leaderboard-Frontend/static/js/runtime-main.14ddaa36.js.map",
+    "static/js/2.1b8e8927.chunk.js": "/GSSoC21-Leaderboard-Frontend/static/js/2.1b8e8927.chunk.js",
+    "static/js/2.1b8e8927.chunk.js.map": "/GSSoC21-Leaderboard-Frontend/static/js/2.1b8e8927.chunk.js.map",
+    "index.html": "/GSSoC21-Leaderboard-Frontend/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/GSSoC21-Leaderboard-Frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1b8e8927.chunk.js.LICENSE.txt": "/GSSoC21-Leaderboard-Frontend/static/js/2.1b8e8927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14ddaa36.js",
+    "static/js/2.1b8e8927.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e0fdd914.chunk.js"
+  ]
+}
